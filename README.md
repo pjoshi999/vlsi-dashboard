@@ -1,4 +1,4 @@
-### Figma Link given by a company: https://www.figma.com/file/dIjwUs1Gg9xuxkUFmjkj5p/Writing-Test?type=design&node-id=0-1&mode=design&t=qJKw7XdjvbtfHWrG-0
+Figma Link given by a company: https://www.figma.com/file/dIjwUs1Gg9xuxkUFmjkj5p/Writing-Test?type=design&node-id=0-1&mode=design&t=qJKw7XdjvbtfHWrG-0
 
 # Getting Started with Create React App
 
